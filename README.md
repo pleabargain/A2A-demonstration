@@ -1,3 +1,9 @@
+# repo
+https://github.com/pleabargain/A2A-demonstration
+
+# motivation
+I saw this vid: https://www.youtube.com/watch?v=UngBxJ9uy70
+
 # A2A Agent System
 
 This project implements a Python tool using the A2A (Agent-to-Agent) protocol where two specialized agents communicate and provide domain-specific answers.

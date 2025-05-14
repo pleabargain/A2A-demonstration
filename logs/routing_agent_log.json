@@ -1,0 +1,20 @@
+[
+  {
+    "timestamp": "2025-05-14T15:21:01.158898",
+    "query": "amphibians",
+    "agent_type": "routing",
+    "model": "llama3.2:latest",
+    "classification": "animal",
+    "response": "animal",
+    "processing_time": 3.4047579765319824
+  },
+  {
+    "timestamp": "2025-05-14T15:22:02.503465",
+    "query": "How do I kill mites growing on my house plants?",
+    "agent_type": "routing",
+    "model": "llama3.2:latest",
+    "classification": "animal",
+    "response": "animal",
+    "processing_time": 1.7166821956634521
+  }
+]
